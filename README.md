@@ -1,4 +1,4 @@
 - 👋 Hi, I’m AYESHA MOHANTY
 - 👀 My interests are in web development,machine learning,python.
-- 🌱 I’m currently learning web development.
+- 🌱 Along with WEB DEVELOPMENT, I have acquired knowledge in Data Analytics and building my roadmap to Data Science.
 - 📫 How to reach me www.linkedin.com/in/ayeshamty
